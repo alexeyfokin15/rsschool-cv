@@ -23,3 +23,7 @@
 # **Code example**
 
 # **Languages**
+
+### English (pre-intermediate)
+
+### Russian (native)
