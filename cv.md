@@ -1,1 +1,15 @@
-#Aliaksei Fokin
+# Name
+
+# **Contacts**
+
+# **Skills*
+
+# **Courses**
+
+# **Experience 
+
+# **About me**
+
+# **Code example**
+
+# **Languages**
