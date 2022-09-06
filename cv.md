@@ -20,7 +20,7 @@
 
 # **Courses**
 
-TeachMeSkills:Frontend development.
+TeachMeSkills: Frontend development.
 
 # **Experience**
 
@@ -44,6 +44,6 @@ alert( result );
 
 # **Languages**
 
-### English (pre-intermediate)
+ English (pre-intermediate)
 
-### Russian (native)
+ Russian (native)
