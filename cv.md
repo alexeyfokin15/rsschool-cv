@@ -14,6 +14,10 @@
 
 # **Skills*
 
+1. HTML5
+2. CSS/Sass
+3. JavaScript (basic)
+
 # **Courses**
 
 # **Experience 
