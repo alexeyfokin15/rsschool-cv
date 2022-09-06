@@ -20,7 +20,11 @@
 
 # **Courses**
 
+TeachMeSkills:Frontend development.
+
 # **Experience**
+
+Nothing yet…
 
 # **About me**
 Hello! My name is Aliaksei. 
