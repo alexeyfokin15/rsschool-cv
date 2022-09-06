@@ -34,6 +34,13 @@ And I'm taking a course on RSS
 
 
 # **Code example**
+```function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(7, 2);
+alert( result );
+```
 
 # **Languages**
 
