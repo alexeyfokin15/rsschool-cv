@@ -12,7 +12,7 @@
 
 ### **telegram**: https://t.me/lxfkn
 
-# **Skills*
+# **Skills**
 
 1. HTML5
 2. CSS/Sass
@@ -20,9 +20,14 @@
 
 # **Courses**
 
-# **Experience 
+# **Experience**
 
 # **About me**
+Hello! My name is Aliaksei. 
+I want to become a frontend developer. 
+Now I am learning English.
+And I'm taking a course on RSS
+
 
 # **Code example**
 
